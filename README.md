@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/AbhishekBalija/Univent/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AbhishekBalija/Univent?style=for-the-badge" alt="License"></a>
+  <a "><img src="https://img.shields.io/github/license/SunilKumar7667088673/college-event-management?style=for-the-badge" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/status-active-success.svg?style=for-the-badge" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/github/last-commit/AbhishekBalija/Univent?style=for-the-badge" alt="Last Commit"></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/SunilKumar7667088673/college-event-management?style=for-the-badge" alt="Last Commit"></a>
 </p>
 
 ## 🚀 Overview
@@ -61,7 +61,7 @@ Univent is designed using a **microservice architecture** to ensure scalability,
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AbhishekBalija/Univent.git](https://github.com/AbhishekBalija/Univent.git)
+    git clone [https://github.com/SunilKumar7667088673/college-event-management.git](https://github.com/SunilKumar7667088673/college-event-management.git)
     cd univent
     ```
 
