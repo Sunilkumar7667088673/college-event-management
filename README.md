@@ -62,7 +62,7 @@ Univent is designed using a **microservice architecture** to ensure scalability,
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/SunilKumar7667088673/college-event-management.git](https://github.com/SunilKumar7667088673/college-event-management.git)
-    cd univent
+    cd college-event-management
     ```
 
 2.  **Install server and client dependencies:**
@@ -152,5 +152,5 @@ univent/
 └── docker-compose.yml    # Docker configuration for all services
 ```
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## 📜 Credit by
+Abhishek Balaji 
